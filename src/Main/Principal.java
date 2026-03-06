@@ -16,9 +16,6 @@ public class Principal {
 		float precio;
 		boolean estatus;
 
-		System.out.println("Hola mundo");
-		System.out.println("Tienes un " + 100);
-
 		Implementar imp = new Implementar();
 
 		do {
